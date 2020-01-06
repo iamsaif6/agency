@@ -1,0 +1,105 @@
+@media (max-width: 768px) {
+     #services {
+       text-align: center;
+     }
+     #services .services-img {
+       transform: translate(20%, 0);
+       -webkit-transform: translate(20%, 0);
+       -moz-transform: translate(20%, 0);
+       -ms-transform: translate(20%, 0);
+       -o-transform: translate(20%, 0);
+     }
+     #services .services-header {
+       width: 100%;
+     }
+     #services::before {
+       position: absolute;
+       content: '';
+       background: #E4E7E8;
+       z-index: 0;
+       left: -10%;
+       top: -50%;
+     }
+     #boxes .span_1_of_3 {
+       width: 70%;
+       margin-left: 15%;
+     }
+     #galary .galary-info-title {
+       font-size: 13px !important;
+     }@media (max-width: 991px) {
+     #header .nav-row .row {
+       width: 90% !important;
+     }
+     nav .nav-brand {
+       transform: translate(0, 25%);
+       -web
+     #galary .galary-info-header {
+       font-size: 20px !important;
+       padding-bottom: 10px !important;
+     }
+     #review .brand-col .span_1_of_3 {
+       width: 31%;
+     }
+     #blog .owl-nav.disabled {
+       top: -20%;
+       left: 50%;
+       transform: translate(-44%);
+       -webkit-transform: translate(-44%);
+       -moz-transform: translate(-44%);
+       -ms-transform: translate(-44%);
+       -o-transform: translate(-44%);
+     }
+     #blog .owl-dot {
+       display: none;
+     }
+     #subscribe {
+       padding: 60px 0;
+     }
+     #subscribe .subscribe-header {
+       font-size: 30px;
+     }
+   }
+   
+   @media (max-width: 576px) {
+     .hero-row .span_1_of_2 h1 {
+       font-size: 35px !important;
+     }
+     #boxes .span_1_of_3 {
+       width: 90%;
+       margin-left: 5%;
+     }
+     #galary .span_1_of_3 {
+       width: 80%;
+       margin-left: 10%;
+     }
+     #galary .galary-info-title {
+       font-size: 16px !important;
+     }
+     #galary .galary-info-header {
+       font-size: 30px !important;
+       padding-bottom: 10px !important;
+     }
+     #review .client-quote {
+       width: 200px !important;
+       left: -50% !important;
+       height: 300px !important;
+     }
+     #review .client-quote-text {
+       font-size: 12px !important;
+     }
+     #review .brand-col .span_1_of_3 {
+       width: 48%;
+     }
+     #blog .owl-nav {
+       display: none;
+     }
+     #blog .owl-dot {
+       display: none;
+     }
+     #footer a, #footer p {
+       font-size: 13px;
+     }
+     #footer span {
+       margin: 0 2px;
+     }
+   }
