@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/agency/blob/master/Screenshot%202021-06-02%20at%2012-25-46%20Agency.png" width="800px" />
+<img src="https://github.com/iamsaif6/agency/blob/master/agentur.gif" width="800px" />
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/agency/ "Agentur")
 
